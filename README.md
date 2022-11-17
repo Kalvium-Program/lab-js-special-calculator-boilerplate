@@ -1,4 +1,4 @@
-![Logo-nav](https://user-images.githubusercontent.com/109285740/200658402-cb59fc91-8677-4d38-9302-b3c804e908c0.png)
+![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
 # Kalvium Lab | Special Calculator
 
@@ -23,14 +23,12 @@ _the division of those two numbers_.
 
 ### Progression 3: Special Calculator!
 
-Tao just wanted the special addition and simple division methods for his special calculator. So now he wants to create his calculator in such a way, that as soon as any of the two operations are called, the 
+Tao just wanted the special addition and simple division methods for his special calculator. So now he wants to create his calculator in such a way, that as soon as any of the two operations are called, the
 respective operation is done - in the way he have defined those operations.
 Create a function `specialCalculator()` that takes `numberOne, numberTwo, operation` as an argument, and returns _the respective output from the respective operation called_.
 
 ### Challenge : If-Else or Something Else!
 
 Try not to use if-else -> for implementing this special calculator.
-
-
 
 Happy Coding Kalvium ❤️
