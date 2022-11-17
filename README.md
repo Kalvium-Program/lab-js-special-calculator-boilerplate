@@ -6,31 +6,13 @@ Terence Tao loves Mathematics. So he decided to create one special calculator, w
 different to normal calculators.
 Tao is now on a quest to create this special calculator. He needs **YOU** to help him code functionalities in the back-end though. Go to the `src/app.js` file and complete all the unfinished code to satiate her sweet tooth.
 
-## What should you do
-```
-Fork this repo
-Clone this repo
-Practice JavaScript Arrays - higher order function
-```
-
-## How To Submit
-```
-Upon completion, run the following commands:
-
-git add .
-git commit -m "Kalvium ID"
-git push origin master
-
-And finally, create a pull request so your Kalvium Mentor (PM) can review your work.
-```
-
 ### Tests
 
 Open the `index.html` (outside src folder) file on your browser and start coding to pass the test. Remember to focus on one test at a time and read carefully the instructions to understand what you have to do.
 
 ### Progression 1: Special Addition!
 
-Simple Addition bores Tao, so he decided to revert it's role, by subtracting when addition method is called. Create a function `specialAddition()` that takes `numberOne, numberTwo` as arguments, and returns
+Simple Addition bores Tao, so he decided to revert it's role, by subtracting when addition method is called. Create a function `specialAddition()` - (make sure you name this function as it is) that takes `numberOne, numberTwo` as arguments, and returns
 _the addition of those two numbers_.
 
 ### Progression 2: Simple Division!
