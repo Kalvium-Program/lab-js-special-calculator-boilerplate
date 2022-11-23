@@ -3,7 +3,7 @@ describe("Create an addition operation for the special calculator",function(){
   it("Defines specialAddition", function(){
     expect(typeof specialAddition).toBe("function");
   });
-
+  
   it("Adding two numbers using special addition method", function(){
 
     let expectedResult = 5;
