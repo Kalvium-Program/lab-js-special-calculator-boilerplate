@@ -4,7 +4,7 @@
 
 Terence Tao loves Mathematics. So he decided to create one special calculator, which behaves a little
 different to normal calculators.
-Tao is now on a quest to create this special calculator. He needs **YOU** to help him code functionalities in the back-end though. Go to the `src/app.js` file and complete all the unfinished code to satiate her sweet tooth.
+Tao is now on a quest to create this special calculator. He needs **YOU** to help him code functionalities in the back-end though. Go to the `src/app.js` file and complete all the unfinished code to satiate his sweet tooth.
 
 ### How to approach a lab:
 
