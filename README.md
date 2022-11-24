@@ -10,7 +10,7 @@ Tao is now on a quest to create this special calculator. He needs **YOU** to hel
 
 Before starting have a look through the link below - to get an idea as how to approach the lab.
 
-![](https://docs.google.com/document/d/1SZ2Pryj6kAJj63wdB2_xVJgQHq6GddeZQ3nqDXYeaBA/edit?usp=sharing)
+[How to approach a lab](https://docs.google.com/document/d/1SZ2Pryj6kAJj63wdB2_xVJgQHq6GddeZQ3nqDXYeaBA/edit?usp=sharing)
 
 ### Progression 1: Special Addition!
 
