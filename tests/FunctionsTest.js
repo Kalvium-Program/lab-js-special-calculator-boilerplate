@@ -49,8 +49,8 @@ describe('Create a division operation for the special calculator - ', function (
     expect(actualResult).toEqual(expectedResult);
   });
 
-  it("Return 'Cannot divide a smaller number from a larger number ' when numberTwo>numberOne", function () {
-    let expectedResult = 'Cannot divide a smaller number from a larger number';
+  it("Return 'Cannot divide a smaller number by a larger number ' when numberTwo>numberOne", function () {
+    let expectedResult = 'Cannot divide a smaller number by a larger number';
 
     let actualResult = simpleDivision(5, 10);
 
@@ -103,8 +103,8 @@ describe('Create a division operation for the special calculator - ', function (
     expect(actualResult).toEqual(expectedResult);
   });
 
-  it("Return 'Cannot divide a smaller number from a larger number ' when numberTwo>numberOne", function () {
-    let expectedResult = 'Cannot divide a smaller number from a larger number';
+  it("Return 'Cannot divide a smaller number by a larger number ' when numberTwo>numberOne", function () {
+    let expectedResult = 'Cannot divide a smaller number by a larger number';
 
     let actualResult = specialCalculator(5, 10, simpleDivision);
 
